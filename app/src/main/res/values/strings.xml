@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string name="favorite">Your most favorite sports is: %s</string>
+    <string name="your_selection">Your selection is: %s</string>
+
+</resources>
